@@ -1,2 +1,13 @@
-# CarSpotter
-A simple Android app for tracking car plates with add/edit, search and incomplete highlights. Built with Kotlin, Compose, and Room
+CarSpotter
+
+A simple Android app to track and store car plates I see.
+
+Features:
+- Add/edit/delete cars
+- Search system
+- Highlights incomplete entries
+
+Built with:
+- Kotlin
+- Jetpack Compose
+- Room Database
